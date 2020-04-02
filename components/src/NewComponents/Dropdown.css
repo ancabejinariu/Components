@@ -1,0 +1,36 @@
+.dropdown-list {
+    border: 1px solid blue;
+    border-radius: 3px;
+    background: rgb(228, 225, 225);
+    width: 25%;
+    margin: auto;
+  }
+  
+  .default-option {
+    border: 1px solid blue;
+    border-radius: 3px;
+    background: rgb(228, 225, 225);
+    text-align: center;
+    width: 25%;
+    margin: auto;
+  }
+  
+  .option {
+    padding: 12px 10px;
+    border-bottom: 1px solid #d1d1cf;
+  }
+  
+  .fas {
+    color: grey;
+    text-align: center;
+    margin-left: 10px;
+  }
+  
+  .option:hover {
+    background: rgb(211, 209, 209);
+  }
+  
+  .selected {
+    background: blue;
+  }
+  
